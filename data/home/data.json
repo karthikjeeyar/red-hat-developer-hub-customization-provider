@@ -88,8 +88,8 @@
     "title": "TESTING",
     "links": [
       {
-        "iconUrl": "https://cdn-icons-png.flaticon.com/512/10988/10988147.png"
-        "label": "CDN"
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/10988/10988147.png",
+        "label": "CDN",
         "url": ""
       }
     ]

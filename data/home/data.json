@@ -6,7 +6,8 @@
       {
         "iconUrl": "/homepage/icons/icons8/web.png",
         "label": "Website",
-        "url": "https://janus-idp.io/community"
+        "url": "<svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' width='2048' height='2048' style='shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd'><defs><style>.fil0{fill:none}.fil4{fill:#bdbdbd;fill-rule:nonzero}</style></defs><g id='Layer_x0020_1'><path class='fil0' d='M0 0h2048v2048H0z'/><path class='fil0' d='M255.999 255.999h1536v1536h-1536z'/><path class='fil0' d='M256 256h1536v1536H256z'/><g id='_342647616'><path id='_342648000' style='fill:#e53935;fill-rule:nonzero' d='m273.04 666.226 737.28-367.843 13.68-6.824 13.68 6.824 737.28 367.843 17.04 8.503v234.834L993.281 1418.52 255.999 909.563V674.729z'/><path id='_342647880' style='fill:#fff' d='M609.28 711.961h829.439V1541.4H609.28z'/><path id='_342647808' style='fill:#c62828;fill-rule:nonzero' d='m1024 1279.73 723.6-361.079 44.4-22.156v859.945H255.999V896.495l44.402 22.156z'/><path id='_342647736' class='fil4' d='M1331.2 896.285H716.716v-61.442H1331.2z'/><path id='_342647688' class='fil4' d='M1203.22 1049.88H844.698v-61.439h358.522z'/></g></g></svg>"
+  
       },
       {
         "iconUrl": "/homepage/icons/icons8/external-blog-copywriting-itim2101-lineal-itim2101.png",

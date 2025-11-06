@@ -84,9 +84,8 @@
       }
     ]
   },
-    {
+  {
     "title": "TESTING",
-    "isExpanded": true,
     "links": [
       {
         "iconUrl": "https://cdn-icons-png.flaticon.com/512/10988/10988147.png"
